@@ -1,0 +1,18 @@
+# Arduino temporary files
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.temp
